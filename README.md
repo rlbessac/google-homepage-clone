@@ -1,12 +1,12 @@
 # google-homepage-clone
-A simple re-creation of the Google homepage
+<h1>A simple re-creation of the Google homepage</h1>
 
-Skills showcased:
+<h2>Skills showcased:<h2>
 <ul>
   <li>HTML Page Structure</li>
   <li>Basic CSS Styling</li>
-  <li>Flexbox<li>
+  <li>Flexbox</li>
   <li>Responsive Design</li>
  </ul>
  
- <a href="#">Live Preview</a>
+ <h2><a href="#">Live Preview</a></h2>
