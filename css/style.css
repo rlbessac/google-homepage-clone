@@ -141,3 +141,23 @@ footer nav {
   font-size: 1.4rem;
   align-items: center;
 }
+
+@media (max-width: 600px) {
+  #searchbar {
+    width: 90%;
+  }
+
+  #footer nav {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 782px) {
+  #searchbar {
+    width: 90%;
+  }
+
+  #footer nav {
+    font-size: 1rem;
+  }
+}
