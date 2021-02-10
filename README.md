@@ -1,7 +1,7 @@
 # google-homepage-clone
-<h1>A simple re-creation of the Google homepage</h1>
+<p>A simple re-creation of the Google homepage</p>
 
-<h2>Skills showcased:<h2>
+<p>Skills showcased:</p>
 <ul>
   <li>HTML Page Structure</li>
   <li>Basic CSS Styling</li>
@@ -9,4 +9,4 @@
   <li>Responsive Design</li>
  </ul>
  
- <h2><a href="#">Live Preview</a></h2>
+ <p><a href="#">Live Preview</a></p>
