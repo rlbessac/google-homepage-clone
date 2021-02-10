@@ -7,6 +7,7 @@
   <li>Basic CSS Styling</li>
   <li>Flexbox</li>
   <li>Responsive Design</li>
+  <li>Chrome DevTools</li>
  </ul>
  
  <p><a href="#">Live Preview</a></p>
