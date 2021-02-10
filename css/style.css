@@ -58,6 +58,77 @@ nav {
   opacity: 1;
 }
 
+#signInBtn:hover {
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+/* Main */
+#main {
+  text-align: center;
+}
+
+#logo {
+  margin: 16rem 0 2.7rem 0;
+}
+
+/* Searchbar */
+#searchbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  height: 4.6rem;
+  margin: 0 auto;
+  width: 47rem;
+}
+
+#searchIcon {
+  height: 1.4rem;
+  width: 1.4rem;
+  opacity: 0.5;
+}
+
+#search {
+  margin: 0 1rem;
+  padding: 1rem 0;
+  width: 81%;
+  font-size: 1.6rem;
+  border: none;
+  outline: none;
+}
+
+#voiceIcon {
+  height: 2.5rem;
+  width: 2.5rem;
+  cursor: pointer;
+}
+
+/* Search Buttons */
+#buttons {
+  margin-top: 3.6rem;
+}
+
+#buttons a {
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  color: #5f6368;
+  font-size: 1.4rem;
+  margin: 1.1rem 0.4rem;
+  padding: 1rem 1.6rem;
+  opacity: 1;
+}
+
+#buttons a:hover {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #f8f8f8;
+  border: 1px solid #c6c6c6;
+  color: #222;
+}
+
 /* Footer */
 footer nav {
   position: fixed;
