@@ -144,20 +144,10 @@ footer nav {
 
 @media (max-width: 600px) {
   #searchbar {
-    width: 90%;
+    width: 30rem;
   }
 
-  #footer nav {
-    font-size: 0.8rem;
-  }
-}
-
-@media (max-width: 782px) {
-  #searchbar {
-    width: 90%;
-  }
-
-  #footer nav {
-    font-size: 1rem;
+  footer nav ul {
+    display: none;
   }
 }
