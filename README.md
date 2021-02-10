@@ -10,4 +10,4 @@
   <li>Chrome DevTools</li>
  </ul>
  
- <p><a href="#">Live Preview</a></p>
+ <p><a href="https://rlbessac.github.io/google-homepage-clone/">Live Preview</a></p>
